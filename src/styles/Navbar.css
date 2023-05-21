@@ -1,0 +1,52 @@
+.bar {
+    width: 300px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    background: #fbf016;
+    z-index: 1001;
+  }
+  
+  .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    background: #fff;
+    border: solid black;
+    border-color: black;
+    float: left;
+    font-size: xx-large;
+    text-decoration: none;
+  }
+  
+  .box:visited {
+    color: inherit;
+  }
+  
+  .box3 {
+    border-width: 5px 3px 3px 5px;
+    border-radius: 95% 4% 97% 5%/4% 94% 3% 95%;
+    transform: rotate(2deg);
+  }
+  
+  .box:hover {
+    transform: rotate(-4deg) scale(1.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .box:active {
+    font-weight: bold;
+  }
+  
+  .box:focus,
+  .box:active {
+    background-color: rgb(185, 185, 167);
+  }
+  

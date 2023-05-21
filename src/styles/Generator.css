@@ -1,0 +1,93 @@
+.header {
+    display: flex;
+    align-items: center;
+    height: 65px;
+    background: #fff;
+    border: solid black;
+    border-color: black;
+    padding: 40px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:x-large;
+    border-width: 5px 3px 3px 5px;
+    border-radius: 95% 4% 97% 5%/4% 94% 3% 95%;
+    transform: rotate(2deg);
+ }
+
+ .form {
+    margin-top: 30px;
+    display: grid;
+    grid-template: 70px 70px / 2fr 2fr;
+    gap: 17px;
+}
+
+.form--input {
+    border-radius: 10px;
+    border: 1px solid #D5D4D8;
+    text-indent: 10px;
+    font-size: x-large;
+    font-family: "Bangers", cursive;
+}
+
+.form--button {
+    grid-column: 1 / -1;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: x-large;
+    margin-bottom: 20px;
+    border: solid black;
+    border-color: black;
+    font-family: "Bangers", cursive;
+    letter-spacing: 3px;
+}
+
+.meme {
+    position: relative;
+}
+
+.meme--image {
+    max-width: 100%;
+    border-radius: 3px;
+    border: solid black;
+    border-color: black;
+}
+
+.meme--text {
+    position: absolute;
+    width: 80%;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 15px 0;
+    padding: 0 5px;
+    font-family: "Bangers", cursive;
+    font-size: 3em;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 2px;
+    text-shadow:
+        2px 2px 0 #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000,
+        0 2px 0 #000,
+        2px 0 0 #000,
+        0 -2px 0 #000,
+        -2px 0 0 #000,
+        2px 2px 5px #000;
+}
+
+.bottom {
+    bottom: 0;
+}
+
+.top {
+    top: 0;
+}
+
+

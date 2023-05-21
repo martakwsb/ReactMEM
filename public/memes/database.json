@@ -1,0 +1,301 @@
+{
+    "memes": [
+        {
+            "id": 1,
+            "title": "Mem pierwszy",
+            "description": "#coaching #automotywacja #samoswiadomosc",
+            "upvotes": 30,
+            "downvotes": 1,
+            "url": "images/photo1.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 2,
+            "title": "Mem drugi",
+            "description": "#wolnoscwyboru",
+            "upvotes": 150,
+            "downvotes": 12,
+            "url": "images/photo2.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 3,
+            "title": "Mem trzeci",
+            "description": "#ponioslmniemelanz #bezpiecznadrogadodomu",
+            "upvotes": 21,
+            "downvotes": 13,
+            "url": "images/photo3.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 4,
+            "title": "Mem czwarty",
+            "description": "#ktosieceni #tensieleni",
+            "upvotes": 121,
+            "downvotes": 0,
+            "url": "images/photo4.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 5,
+            "title": "Mem piąty",
+            "description": "#korpozycie #kapitalizmpanie",
+            "upvotes": 185,
+            "downvotes": 12,
+            "url": "images/photo5.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 6,
+            "title": "Mem szósty",
+            "description": "#zyciepo30 #problemytrzydziestolatków",
+            "upvotes": 20,
+            "downvotes": 0,
+            "url": "images/photo6.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 7,
+            "title": "Mem siódmy",
+            "description": "#cesarzpodrywu #imperatorkomplementowakermanskich #absolwentwyzszejszkolybajeru",
+            "upvotes": 23,
+            "downvotes": 10,
+            "url": "images/photo7.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 8,
+            "title": "Mem ósmy",
+            "description": "#dwiekroplewody",
+            "upvotes": 30,
+            "downvotes": 5,
+            "url": "images/photo8.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 9,
+            "title": "Mem dziewiąty",
+            "description": "#oleknaprezydenta #jatoszanuje",
+            "upvotes": 33,
+            "downvotes": 1,
+            "url": "images/photo9.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 10,
+            "title": "Mem dziesiąty",
+            "description": "#rozkminyzyciowe #takwielepytan #takmaloodpowiedzi",
+            "upvotes": 7,
+            "downvotes": 0,
+            "url": "images/photo10.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 11,
+            "title": "Mem jedenasty",
+            "description": "#smuteczek #zycko",
+            "upvotes": 15,
+            "downvotes": 6,
+            "url": "images/photo11.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 12,
+            "title": "Mem dwunasty",
+            "description": "#nauczsiemowicnie",
+            "upvotes": 15,
+            "downvotes": 2,
+            "url": "images/photo12.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 13,
+            "title": "Mem trzynasty",
+            "description": "#poczatkiwIT #juniorfrontenddeveloper",
+            "upvotes": 123,
+            "downvotes": 6,
+            "url": "images/photo13.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 14,
+            "title": "Mem czternasty",
+            "description": "#sposobnapodryw",
+            "upvotes": 30,
+            "downvotes": 0,
+            "url": "images/photo14.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 15,
+            "title": "Mem piętnasty",
+            "description": "#biedapodryw",
+            "upvotes": 223,
+            "downvotes": 1,
+            "url": "images/photo15.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 16,
+            "title": "Mem szesnasty",
+            "description": "#majoweczka #karkoweczka #szaszłyczek #kiełbaska",
+            "upvotes": 150,
+            "downvotes": 1,
+            "url": "images/photo16.jpeg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 17,
+            "title": "Mem siedemnasty",
+            "description": "#wserceczesany #polishboy",
+            "upvotes": 51,
+            "downvotes": 10,
+            "url": "images/photo17.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 18,
+            "title": "Mem osiemnasty",
+            "description": "#kiedystobylo",
+            "upvotes": 14,
+            "downvotes": 1,
+            "url": "images/photo18.jpeg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 19,
+            "title": "Mem dziewiętnasty",
+            "description": "#blacklivesmatter",
+            "upvotes": 111,
+            "downvotes": 18,
+            "url": "images/photo19.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+            "id": 20,
+            "title": "Mem dwudziesty",
+            "description": "#szczeroscprzedewszystkim #zadnychtajemnic",
+            "upvotes": 211,
+            "downvotes": 2,
+            "url": "images/photo20.jpg",
+            "upvotedByYou": false,
+            "downvotedByYou": false,
+            "favorite": false
+        },
+        {
+        "id": 21,
+        "title": "Mem dwudziesty pierwszy",
+        "description": "#niedoszlagwiazdarocka",
+        "upvotes": 30,
+        "downvotes": 12,
+        "url": "images/photo21.jpg",
+        "upvotedByYou": false,
+        "downvotedByYou": false,
+        "favorite": false
+    },
+    {
+        "id": 22,
+        "title": "Mem dwudziesty drugi",
+        "description": "#znieczulicaspoleczna",
+        "upvotes": 141,
+        "downvotes": 6,
+        "url": "images/photo22.jpg",
+        "upvotedByYou": false,
+        "downvotedByYou": false,
+        "favorite": false
+    },
+    {
+        "id": 23,
+        "title": "Mem dwudziesty trzeci",
+        "description": "#mistrzkomplementu",
+        "upvotes": 30,
+        "downvotes":0,
+        "url": "images/photo23.jpg",
+        "upvotedByYou": false,
+        "downvotedByYou": false,
+        "favorite": false
+    },
+    {
+        "id": 24,
+        "title": "Mem dwudziesty czwarty",
+        "description": "#czarnyhumorniedlakażdego",
+        "upvotes": 30,
+        "downvotes": 4,
+        "url": "images/photo24.jpg",
+        "upvotedByYou": false,
+        "downvotedByYou": false,
+        "favorite": false
+    },
+    {
+        "id": 25,
+        "title": "Mem dwudziesty piąty",
+        "description": "#jakniezagadywacdodziewczyny",
+        "upvotes": 17,
+        "downvotes": 2,
+        "url": "images/photo25.jpg",
+        "upvotedByYou": false,
+        "downvotedByYou": false,
+        "favorite": false
+    },
+    {
+        "id": 26,
+        "title": "Mem dwudziesty szósty",
+        "description": "#takimamyklimat #sorrynotsorry",
+        "upvotes": 81,
+        "downvotes": 21,
+        "url": "images/photo26.jpg",
+        "upvotedByYou": false,
+        "downvotedByYou": false,
+        "favorite": false
+    },
+    {
+        "id": 27,
+        "title": "Mem dwudziesty siódmy",
+        "description": "#tylewygrac ",
+        "upvotes": 24,
+        "downvotes": 11,
+        "url": "images/photo27.png",
+        "upvotedByYou": false,
+        "downvotedByYou": false,
+        "favorite": false
+    }
+    ]
+}

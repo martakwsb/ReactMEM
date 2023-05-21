@@ -1,0 +1,63 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+#root {
+  font-family: "Bangers", cursive;
+}
+
+.Banner {
+  text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  color: rgb(76, 26, 78);
+  padding: 10px;
+  z-index: 1000;
+  top: 0;
+  left: 300px;
+  width: calc(100vw - 300px);
+  margin-left: 300px;
+  height: 200px;
+  animation: gradientAnimation 5s linear infinite,
+    zoomAnimation 8s ease-in-out infinite alternate;
+  background-image: url(../public/BannerBEST.png);
+  background-color: #004aad;
+  background-size: contain, 40px 40px, 40px 40px, 40px 40px;
+  background-repeat: no-repeat, repeat, repeat, repeat;
+  background-position: center, 0 0, 20px 20px, 40px 40px;
+}
+
+@keyframes zoomAnimation {
+  0% {
+    transform: scale(1);
+  }
+  30% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.wrapper {
+  display: flex;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.main > div {
+  transform: translateX(25%);
+}
+
+body {
+  margin: 0;
+  background-size: cover;
+  background-position: center;
+}
