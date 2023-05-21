@@ -7,10 +7,10 @@ Node.js
 
 INSTALLATION
 1.Clone the Memes project repository:
-git clone <repository_url>
+git clone https://github.com/martakwsb/ReactMEM.git
 
 2.Navigate to the project directory:
-cd Memes
+cd ReactMEM
 
 3.Install the dependencies:
 npm install
